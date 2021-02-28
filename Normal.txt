@@ -1,1 +1,3 @@
 Hi, I am aadi!
+I am Embedded engineer.
+I deals with C, C++ and Python.
